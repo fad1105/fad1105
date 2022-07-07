@@ -30,9 +30,9 @@
 
 ### Let's Connect
 
-[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/dhiraj-01/)
-[![Gmail](https://img.icons8.com/cute-clipart/64/000000/gmail.png)](hi.dhiraj)
-[![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/dhiraj_govindvira/)
+[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/fad1105/)
+[![Gmail](https://img.icons8.com/cute-clipart/64/000000/gmail.png)](mailto:fenildomadiya115@gmail.com)
+[![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/fenil_domadiya/)
 
 
 <!-- <a href="https://www.linkedin.com/in/fenil-domadiya/"> 
