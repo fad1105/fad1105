@@ -30,7 +30,7 @@
 
 ### Let's Connect
 
-[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/fad1105/)
+[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/fenil-domadiya/)
 [![Gmail](https://img.icons8.com/cute-clipart/64/000000/gmail.png)](mailto:fenildomadiya115@gmail.com)
 [![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/fenil_domadiya/)
 
